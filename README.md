@@ -26,8 +26,18 @@ src/
 ├── AppProvider.js         // 전체 Provider 래핑 파일
 ├── App.js                 // React App 진입 파일
 
-
 ```
+
+![4](https://github.com/user-attachments/assets/a1ca0479-0ca2-4512-9590-9431eb56d131)
+
+
+
+
+![3](https://github.com/user-attachments/assets/e671454e-261a-4acc-8183-6e1999f898a5)
+
+
+![2](https://github.com/user-attachments/assets/ce0991b4-c1e6-493a-969c-d9fe8103f5a7)
+
 
 
 
