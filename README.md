@@ -4,7 +4,7 @@
 필요한 라이브러리 설치
 npm install recoil react-query
 
-
+cshop1 최상위 폴더
 
 변환된 코드
 store.js를 Context API, Recoil, React Query로 변경
