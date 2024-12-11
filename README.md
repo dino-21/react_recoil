@@ -15,7 +15,7 @@ Recoil (userState):
 Context API (CartContext):
 
 React Query (비동기 데이터 가져오기):
-
+```
 src/
 ├── recoil/
 │   └── userState.js       // Recoil 관련 파일
@@ -25,6 +25,9 @@ src/
 │   └── productQueries.js  // React Query 관련 파일
 ├── AppProvider.js         // 전체 Provider 래핑 파일
 ├── App.js                 // React App 진입 파일
+
+
+```
 
 
 
